@@ -5,3 +5,5 @@ To launch the program :
 
 --> make
 --> ./42sh
+
+https://intra.epitech.eu/module/2019/B-PSU-210/MPL-2-1/acti-378022/project/file/B-PSU-210_42sh.pdf
